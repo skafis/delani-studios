@@ -1,0 +1,13 @@
+
+.head {
+    text-align: center;
+    background-image: url("h_img.jpg");
+    background-size: cover;
+    height: auto;
+    padding: 90px 0px;
+    
+}
+
+.text {
+    font-size: 30px;
+}
