@@ -1,5 +1,6 @@
 
 .head {
+    color: white;
     text-align: center;
     background-image: url("h_img.jpg");
     background-size: cover;
@@ -9,5 +10,15 @@
 }
 
 .text {
-    font-size: 30px;
+    font-size: 35px;
+}
+
+.textsmall {
+    font-size: 16px;
+}
+
+.about {
+    font-size: 18px;
+    text-align: center;
+    padding: 0px 70px;
 }
