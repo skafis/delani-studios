@@ -18,7 +18,15 @@
 }
 
 .about {
+    height: 400px;
     font-size: 18px;
     text-align: center;
     padding: 0px 70px;
+}
+
+.services {
+    background-image: url("s_image.jpg");
+    background-size: cover;
+    height: 400px;
+    color: #ffffff;
 }
