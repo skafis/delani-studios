@@ -28,5 +28,10 @@
     background-image: url("s_image.jpg");
     background-size: cover;
     height: 400px;
-    color: #ffffff;
+    text-align: center;
+    color: white;
+}
+
+.services h2 {
+    color: white;
 }
