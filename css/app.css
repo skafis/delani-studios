@@ -50,3 +50,11 @@
 .above {
     padding: 20px;
 }
+
+.contact {
+     background-image: url("c_image.jpg");
+}
+
+input {
+    width: 400px;
+}
