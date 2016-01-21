@@ -63,3 +63,13 @@
     margin: 30px;
     padding: 70px;
 }
+
+.social {
+    align-content: center;
+    padding: 22px
+}
+
+footer {
+    text-align: center;
+    font-size: 12px;
+}
