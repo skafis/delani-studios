@@ -60,6 +60,7 @@
 
 
 .form {
+    opacity: 50%;
     margin: 30px;
     padding: 70px;
 }
